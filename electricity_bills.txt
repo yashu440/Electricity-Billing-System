@@ -1,0 +1,24 @@
+Customer Name: yashuuuu
+Meter Number: 1234567890
+Address: Tirupati
+Units Consumed: 250.0
+Total Bill: 1750.0
+----------------------------
+Customer Name: Rohith
+Meter Number: 997787567
+Address: Tirupati
+Units Consumed: 250.0
+Total Bill: 1750.0
+----------------------------
+Customer Name: Rohith
+Meter Number: 997787567
+Address: Tirupati
+Units Consumed: 200.0
+Total Bill: 1400.0
+----------------------------
+Customer Name: jack
+Meter Number: 0987654567
+Address: rapur
+Units Consumed: 34.0
+Total Bill: 170.0
+----------------------------
